@@ -1,0 +1,1 @@
+// 10–15 hand-written { question, expectedLessonId, expectedKeywords } entries from lessons you know well. Write these early — you'll use them to sanity-check every layer as you add it (bare-bones retrieval, then translation, then rerank, then guardrails).

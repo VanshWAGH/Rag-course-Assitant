@@ -1,0 +1,1 @@
+// Loops the golden set through correctiveLoop.run(), checks whether the top retrieved chunk's lessonId matches expectedLessonId, and whether expected keywords appear in the answer. Prints a pass/fail table.
